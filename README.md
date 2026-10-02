@@ -10,7 +10,7 @@
 
 ---
 
- <img align="center" width="1000" src="https://skillicons.dev/icons?i=typescript,javascript,nodejs,dart,flutter,rust,java,python,react,angular,nextjs,tauri,Cloudflare,vercel,supabase,tailwind,postgres,mysql,firebase,docker,git,linux,electron,ruby,php,C#,C,C++," />
+ <img align="center" width="1000" src="https://skillicons.dev/icons?i=typescript,javascript,nodejs,dart,flutter,rust,java,python,react,angular,nextjs,Cloudflare,vercel,supabase,tailwind,postgres,mysql,firebase,docker,git,linux,electron,ruby,php,oracle" />
  
 ---
   
